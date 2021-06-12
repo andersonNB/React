@@ -1,0 +1,29 @@
+.header{
+   
+    border: 1px solid red;
+}
+
+.imagen{
+    
+    border: 1px solid cornflowerblue;
+    width: 100px;
+}
+
+.navegacion{
+    border: 1px dashed brown;
+}
+
+.listaOL{
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid rgb(53, 40, 241);
+}
+
+.listaOL__li{
+    margin-right: 50px;
+}
+
+.listaOL__li-a{
+    list-style: none;
+    text-decoration: none;
+}
